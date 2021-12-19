@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">proycdraw</string>
+    <string name="go_food">go food</string>
+    <string name="menu">Menu</string>
+    <string name="servicios">Servicios</string>
+    <string name="find_us">Find US</string>
+    <string name="te_lo_llevamos">Te lo llevamos</string>
+    <string name="login">Login</string>
+    <string name="empleados">empleados</string>
+    <string name="loguser">LogUser</string>
+    <string name="descriptionfood8">description of delicious food</string>
+    <string name="descriptionfood7">description of delicious food</string>
+    <string name="descriptionfood6">description of delicious food</string>
+    <string name="descriptionfood5">description of delicious food</string>
+    <string name="descriptionfood4">description of delicious food</string>
+    <string name="descriptionfood3">description of delicious food</string>
+    <string name="descriptionfood2">description of delicious food</string>
+    <string name="descriptionfood1">description of delicious food</string>
+    <string name="title_food8">name of dish</string>
+    <string name="title_food7">name of dish</string>
+    <string name="title_food6">name of dish</string>
+    <string name="title_food5">name of dish</string>
+    <string name="title_food4">name of dish</string>
+    <string name="title_food3">name of dish</string>
+    <string name="title_food2">name of dish</string>
+    <string name="title_food1">name of dish</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_closed">Closed Drawer</string>
+    <string name="servicios1">Servicio a la mesa</string>
+    <string name="service2">Te lo llevamos a domicilio</string>
+    <string name="service3">Llevamos todos tus productos favoritos donde te encuentres. Sin importar el lugar difruta mas tus momentos con Go Food</string>
+    <string name="service4">Ven y comparte tus mejores momentos en Go Food. Reserva tus eventos con nosotros.</string>
+    <string name="service5">No te pierdas nuestras grandes promociones. Todas las semanas una promocion nueva</string>
+    <string name="service7">Eventos</string>
+    <string name="service8">Promociones</string>
+    <string name="todo">mmm</string>
+    <string name="location1">Encuentranos</string>
+    <string name="loctation2">Maps</string>
+    <string name="ubic">Ubicanos en: *av123cll  *caw678villas *890stvivi *road4via21</string>
+    <string name="CONSTRUCCION">UNDER CONSTRUCTION</string>
+    <string name="action_add">Agregar</string>
+    <string name="BTNactualizar">Actualizar</string>
+    <string name="BTNeliminar">Eliminar</string>
+    <string name="BTNconsultar">Consultar</string>
+    <string name="BTNinsertar">Insertar</string>
+    <string name="campo3">Precio</string>
+    <string name="campo2">Descripcion</string>
+    <string name="campo1">Nombre del producto</string>
+    <string name="id">ID</string>
+    <string name="deliver1">Pensando en que comer ? pide ya en Go Food te lo llevamos hasta la puerta de tu casa.</string>
+    <string name="delive2">hacemos tu entrega segura, y puedes seguir disfrutando de todas nuestras promociones.</string>
+    <string name="EMPLOYMESSE">Bienvenido RECUERDA INGRESAR LOS PRODUCTOS DEL MENU O ACTUALIZARLOS EMPLEADO 0001</string>
+
+</resources>
